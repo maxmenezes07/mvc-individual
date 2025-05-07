@@ -1,9 +1,8 @@
 # API Habit Tracker
-**Descrição do projeto:**<br />
+### Descrição do projeto:
 Este projeto é um Habit Tracker, uma aplicação web onde usuários podem cadastrar hábitos e marcar diariamente se os completaram.
 
-
-**Estrutura de pastas e arquivos:**
+### Estrutura de pastas e arquivos:
 ```
 website/
 ├── assets/                # Arquivos estáticos (imagens, fontes, etc.)
@@ -41,7 +40,7 @@ website/
 └── server.js              # Arquivo principal que inicia o servidor
 ```
 
-**Como executar o projeto:**<br />
+### Como executar o projeto:
 Siga os passos abaixo para executar o projeto no seu computador:
 
 1. Clone o repositório
